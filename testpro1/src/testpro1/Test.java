@@ -10,6 +10,8 @@ class Test {
 	 System.out.println();
 	 PascalTri1 pas= new PascalTri1();
 	 pas.pascal(8);
+	 pas.pascal(16);
+	 
 	 } 
 	 
 }
